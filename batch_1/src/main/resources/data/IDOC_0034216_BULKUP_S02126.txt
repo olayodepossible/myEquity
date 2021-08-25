@@ -1,0 +1,15 @@
+EDI_DC40     IDO11323           SAP1      PEXR2002                                                    PAYEXT                                                         ADIBILINK4                                                                                                                                                                                                                            FILE ID 331CITIUS33A
+E2IDKU1                                                        001MULTIPLE PAYMENT ORDER             IDOCT9883      
+E2EDK03                                                        011201603020122001
+E2EDK03                                                        017201603020150303
+E2IDKU2                                                        002DOLBT                                   
+E2IDT01                                                        PMD                                               2                                                                                                        
+E2IDKU3                                                        OTH TEXT FOR INSTRUCTION                               EFTTEXT FOR INSTRUCTION                              
+E2IDKU4                                                        003CITI4500FT0AE330200000567456677595            
+E2IDKU5                                                        00115000          KES00168
+E2IDB02                                                        RE            0010290643668                        HSBC BANK MIDDLE EAST LIMITED      DUBAI                              AE
+E2IDB02                                                        BE 08000      1460263308523                        HSBC BANK MIDDLE EAST LIMITED      DUBAI                              AE           
+E2IDB02                                                        IM            AE330200000567456677558            HSBC BANK MIDDLE EAST LIMITED      DUBAI                              AE           
+E2EDKA1                                                        RE                                         aa                                 10   T AND HOUSE NUMBER LINE 001X35STREET AND HOUSE NUMBER LINE 002X35ABU DHABI                          123456789AE
+E2EDKA1                                                        BA                                         aa                                 10   T AND HOUSE NUMBER LINE 111X35STREET AND HOUSE NUMBER LINE 222X35ABU DHABI                          123456789AE
+E2IDT02                                                        PMDLINE OF TEXT1                                                                                                                                                                                                     LINE OF TEXT4                                                         LINE OF TEXT5
